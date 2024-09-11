@@ -1,4 +1,5 @@
 
+import { FaBars, FaBell, FaGear, FaMagnifyingGlass, FaUser } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 
 const Navbar = ({ tag, sidebarHandler }) => {
