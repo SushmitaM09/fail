@@ -1,0 +1,16 @@
+:root {
+  --main-bg-color: #F8F9FA;
+  --bs-navbar-active-color: #344767;
+}
+
+.icons {
+  width: 28px;
+  height: 30px;
+  background-color: #E9ECEF;
+  text-align: center;
+}
+
+.soso {
+  display: flex;
+}
+
